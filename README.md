@@ -1,2 +1,2 @@
-# Speech-Recognition-for-Unbalanced-Dataset-using-Mel-Spectrogram
+# new-york-city-airbnb-regression-problem
 This code was developed as homework during the course of Data Science Lab: Process and Methods in collaboration with Matteo Bianco. The aim was building a regression model able to identify the price of New York City Airbnb facility, given different informations related to the listing. The original task and dataset are attached to give more information about the homework.
